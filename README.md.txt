@@ -1,0 +1,1 @@
+Tisztabit.hu project (Hungarian NGO initiation for spread the world regarding Bitcoin) scripts
